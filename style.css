@@ -1,0 +1,32 @@
+body {
+    font-family: 'Dancing Script', cursive;
+    text-align: center;
+    background: linear-gradient(to right, rgb(49, 0, 49), rgb(123, 0, 123));
+    color: white;
+}
+
+.btn{
+    font-size: 15px;
+}
+
+#status,#number_of_Items{
+    font-size: 25px;
+    color: aliceblue;
+}
+
+#footer{
+    background-color: rgb(94, 4, 58);
+    padding-top: 10px;
+    position: fixed;
+    bottom: 0px;
+    width: 100%;
+    font-size: large;
+    padding-bottom: 10px;
+}
+
+canvas{
+    border-radius: 10px;
+    border: black 5px ridge;
+    box-shadow: 5px 5px 5px black;
+    margin-top: 73px;
+}
